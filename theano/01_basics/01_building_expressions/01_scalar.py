@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Fill in the TODOs in this exercise, then run
 # python 01_scalar.py to see if your solution works!
 #
